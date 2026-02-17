@@ -50,7 +50,7 @@ const messages = [
   { text: "ASK THE ENEMY ABOUT THEIR FAVORITE COLOR. DOESN'T MATTER IF THEY ANSWER OR NOT.", weight: 5, minCount: 7, amounts: 1 },
   { text: "DO NOT USE PAGES FOR TWENTY SECONDS", weight: 10, minCount: 2, amounts: 5 },
   { text: "LOOK STRAIGHT UP FOR FIVE SECONDS", weight: 10, minCount: 2, amounts: 5 },
-  { text: "START COUNTING UNTIL YOU REACH ONE HUNDRED OR UNTIL YOU WIN, WHEN THE BATTLE ENDS JUMP ON THEIR BODY BY THE FLOOR BY THE FLOOR OF HALF THE NUMBER YOU COUNTED TO", weight: 10, minCount: 2, amounts: 5 },
+  { text: "START COUNTING UNTIL YOU REACH ONE HUNDRED OR UNTIL YOU WIN, WHEN THE BATTLE ENDS JUMP ON THEIR BODY BY THE FLOOR OF HALF THE NUMBER YOU COUNTED TO", weight: 10, minCount: 2, amounts: 5 },
   { text: "SWAP WEAPONS THREE TIMES IN A ROW", weight: 10, minCount: 2, amounts: 5 },
   { text: "YOUR LEGS ARE STONE. ALL YOU HAVE ARE YOUR ARMS", weight: 20, minCount: 3, amounts: 5 },
   { text: "PARRY OR BLOCK WHEN YOUR ENEMY IS STUNNED", weight: 20, minCount: 3, amounts: 5 },
